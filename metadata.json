@@ -1,0 +1,6 @@
+{
+  "name": "UK Client Hunter",
+  "description": "LinkedIn prospecting, outreach messaging, 7-day hunting planner, and client CRM built for UK web development and Local SEO freelancing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
